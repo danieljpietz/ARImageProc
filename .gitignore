@@ -1,5 +1,5 @@
-# Object file
-*.o
+#opencv libraries
 
-# Ada Library Information
-*.ali
+opencv/*
+opencv_contrib/*
+build_opencv/*
